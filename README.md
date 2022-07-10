@@ -1,5 +1,4 @@
 # practice03
-# Project_02
 
 ## 專案二：Costco好市多 商品經驗老實說</br>
 ### 一、研究動機</br>
