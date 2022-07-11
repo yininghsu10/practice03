@@ -26,7 +26,7 @@
 ![p8](https://github.com/yininghsu10/project_03/blob/main/%E6%88%AA%E5%9C%96/p8.png)
 
 ### 三、成果展示</br>
-‵錄影檔`[【專案三】運行結果錄影 .zip](https://github.com/yininghsu10/project_03/files/9086259/default.zip)
+[【專案三】運行結果錄影 .zip](https://github.com/yininghsu10/project_03/files/9086259/default.zip)
 
 
 ### 四、延伸應用(POWERBI)</br>
